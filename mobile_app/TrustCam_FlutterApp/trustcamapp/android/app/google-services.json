@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735781746905",
+    "project_id": "trustcam-9095a",
+    "storage_bucket": "trustcam-9095a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735781746905:android:5158ed8b8c29cdb6b7a6c8",
+        "android_client_info": {
+          "package_name": "com.example.trustcamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_zk9XdgR9TTeR2TyIJY6leqqOoe8bB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
