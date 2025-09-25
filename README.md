@@ -33,4 +33,5 @@ An **AI-powered smart surveillance system** combining **Raspberry Pi, Flutter, F
 ![Screenshot_20250922-142251](https://github.com/user-attachments/assets/a3d4d951-a8bf-4c51-ac38-ea3ab4b91ec5)
 ![Screenshot_20250922-140407](https://github.com/user-attachments/assets/2395941a-643b-4a68-89e0-32c63ef36343)
 ![Screenshot_20250922-140355](https://github.com/user-attachments/assets/cd95fed9-4f0f-43a8-b22d-44985c4ef0c2)
+![IMG_4536](https://github.com/user-attachments/assets/97971a68-a1cc-4314-849c-bb91d9ad9f6e)
 
